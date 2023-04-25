@@ -1,0 +1,113 @@
+h1{
+    color: white;
+    margin-left: 2%;
+}
+label.label_username{
+    color: white;
+    
+}
+label.label_password{
+    color: white;
+}
+div.div_form{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+   
+    
+}
+
+
+form.logform img{
+    height: 200px;
+    width: 250px;
+    z-index: 0;
+}
+
+
+
+body{
+    background-image: url("images/circles.jpg");
+    
+    margin: 0px;
+   
+    background-size: cover;
+
+}
+
+form.logform{
+    align-content: center;
+    background-color: rgba(0,0,0, 0.4);
+    padding: 20px;
+    height: 300px;
+    width: 540px;
+    border-radius: 10px;
+    margin-top: 100px;
+   
+}
+div.input_fields{
+    margin-left: 5%;
+    margin-top: 1%;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+div.div_piatos_lock{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 3%;
+    
+}
+
+form.logform img{
+    height: 280px;
+    width: 250px;
+    border-radius: 30px;
+    opacity: rgba(0,0,0, 0.1);
+    
+}
+
+#user{
+    height: 20px;
+    width: 250px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: 2px solid red;
+   
+}
+#pass{
+    height: 20px;
+    width: 250px;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: 2px solid red;
+}
+
+div.submit_but{
+   
+    
+    margin-top: 35px;
+    margin-left: 0 auto;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 85px;
+
+    
+    
+}
+#submit_button{
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+    
+    background-color:   #b999ff;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
+
